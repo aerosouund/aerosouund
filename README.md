@@ -8,7 +8,7 @@ I've been helping organizations launch ideas using modern technologies such as S
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [aerosound161@gmail.com](mailto:aerosound161@gmail.com)
-* 🧠  I'm learning K8s, IaC, Flask
+* 🧠  I'm learning K8s, IaC, GoLang
 
 ### Skills
 
