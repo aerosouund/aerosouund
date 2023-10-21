@@ -1,7 +1,7 @@
 Hi 👋 My name is Ammar Yasser
 =============================
 
-Cloud engineer
+Software engineer
 --------------
 
 I've been helping organizations launch ideas using modern technologies such as Serverless and Kubernetes
